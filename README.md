@@ -4,5 +4,5 @@
 - set the environment variable for go compilation.
 - prepare the project path.
 - clone to your path to have a complete files as below;
-![Screenshot (4)](https://user-images.githubusercontent.com/33362312/58074722-77b1df00-7b95-11e9-8c6e-08aefb843b21.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/33362312/58264328-9373db80-7d75-11e9-8822-a9c843e6e822.png)
 - go run main.go on terminal.
