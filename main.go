@@ -31,7 +31,7 @@ func main () {
 	http.Handle("/static/", http.FileServer(http.Dir("public")))
 
 
-	/*It request connection to server through port :8080 and responded with 
+	/*It request connection to server through port :9090 and responded with 
 	"I don listen" on succesful connection */
 	log.Println("I don listen")
 	log.Fatal(http.ListenAndServe(":9090", nil))
